@@ -1,6 +1,6 @@
 import pandas as pd
 import re
-from logger import setup_logging
+from .logger import setup_logging
 import logging
 
 class DataPreprocessor:

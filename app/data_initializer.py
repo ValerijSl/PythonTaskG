@@ -1,8 +1,8 @@
 import os
 import gdown
 from gensim.models import KeyedVectors
-from logger import setup_logging
 import logging
+from .logger import setup_logging
 
 class DataInitializer:
     def __init__(self):
