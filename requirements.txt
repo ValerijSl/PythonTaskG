@@ -1,0 +1,8 @@
+gdown==5.1.0
+gensim==4.3.2
+numpy==1.22.4
+pandas==1.5.3
+requests==2.31.0
+scipy==1.12.0
+virtualenv==20.25.0
+-e git+https://github.com/ValerijSl/PythonTaskG.git@6e52b99348209af3999fe6be07ba141c24cd2035#egg=your_project
